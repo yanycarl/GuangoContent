@@ -1,6 +1,10 @@
 {
   "settings": {
     "test_key_1": 1,
-    "test_key_2": "2"
+    "test_key_2": "2",
+    "test_key_3": {
+      "hello": "uiui",
+      "helpp": "123"
+    }
   }
 }
